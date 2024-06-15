@@ -1,7 +1,7 @@
-<?php
+<?php 
 
-register_block_type('wp-gutenberg/sketchfab', [
-    'editor_script'=> 'my-gutenberg-blocks',
-    'editor_style'=> 'my-gutenberg-blocks-editor-style',
-    'style'=> 'my-gutenberg-blocks-style',
+register_block_type('my-blocks/sketchfab',[
+    'editor_script'=> 'my-blocks-editor',
+    'editor_style'=> 'my-blocks-editor-style',
+    'style'=> 'my-blocks-style',
 ]);
