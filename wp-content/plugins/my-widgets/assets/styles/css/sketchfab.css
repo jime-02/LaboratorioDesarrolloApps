@@ -1,0 +1,10 @@
+body{
+    background-color: pink !important;
+}
+
+
+.sketchfab-container{
+    margin-top: 120px;
+    overflow: hidden;
+    border-radius: 30px;
+}
